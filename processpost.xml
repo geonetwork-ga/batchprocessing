@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+  <save>1</save> <!-- I suspect this is not being respected! -->
+  <process>transform</process>
+</request>
